@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CurrencyConverterApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="dollar_lbl">Dollar Amount ($)</string>
+    <string name="edit_message">Enter value</string>
+    <string name="convert_lbl">Convert to: </string>
+    <string name="proceed">Convert</string>
+    <string name="close">Close</string>
+    <string name="converted1">Dollar Amount $</string>
+    <string name="converted2">converted to </string>
+</resources>
